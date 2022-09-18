@@ -1,2 +1,2 @@
 # FOOD_RECIPE_SEARCH
-Food_Recipe_Search
+Food_Recipe_Search_App
